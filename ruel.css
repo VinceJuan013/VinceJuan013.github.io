@@ -20,7 +20,6 @@ body
     font-weight: normal;
     overflow: hidden;
     background: linear-gradient(80deg, #35A29F 50%, #252424 50%);
-    background-repeat: no-repeat;
 }
 *
 {
